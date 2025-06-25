@@ -1,0 +1,7 @@
+Django
+djangorestframework
+python-decouple
+djangorestframework-simplejwt
+celery
+redis
+python-telegram-bot
